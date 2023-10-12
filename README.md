@@ -15,5 +15,6 @@ To run the application
    
     a. Enter "npm start" - this will start the application in the browser with localhost
 
-8. Image of the ouput: 
-![image](https://github.com/Mrunalihire/Landing-Page-Reactjs-/assets/147635358/61cc6f9c-15c7-4a24-8de5-e7f04ecf03b5)
+8. Image of the ouput:
+   ![image](https://github.com/Mrunalihire/Landing-Page-Reactjs-/assets/147635358/2fdef909-38da-4a39-b9b2-7ecb9bf5ede2)
+
